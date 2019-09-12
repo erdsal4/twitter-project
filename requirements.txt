@@ -1,0 +1,6 @@
+pygsheets==2.0.2
+requests==2.21.0
+tweepy==3.8.0
+pandas==0.24.2
+beautifulsoup4==4.8.0
+twitter_client==0.1a2
